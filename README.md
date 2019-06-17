@@ -1,2 +1,2 @@
 # tlctact0e
-tictactoe. https://github.com/MountveresT/TicTacToe
+tictactoe. https://github.com/MountveresT/tlctact0e
